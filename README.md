@@ -23,7 +23,7 @@ print(result)
 
 ## Output:
 
-![alt text](<Screenshot (170).png>)
+![alt text](<Screenshot 2024-04-15 135231.png>)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
